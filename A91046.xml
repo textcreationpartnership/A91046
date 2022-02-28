@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings at Turners-Hall, in relation to the great debate between George Keith and the Quakers, as the same was manag'd in a dispute between two moderate persons of different perswasions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91046</idno>
+            <idno type="STC">Wing P3569</idno>
+            <idno type="STC">ESTC R182132</idno>
+            <idno type="EEBO-CITATION">45789386</idno>
+            <idno type="OCLC">ocm 45789386</idno>
+            <idno type="VID">172696</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172696)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2646:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings at Turners-Hall, in relation to the great debate between George Keith and the Quakers, as the same was manag'd in a dispute between two moderate persons of different perswasions.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by E. Whitlock,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publisher from colophon.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716. --  Fourth narrative of his proceedings at Turners-Hall.</term>
+               <term>Fourth narrative of his proceedings at Turners-Hall.</term>
+               <term>Society of Friends --  England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proceedings">
+            <pb n="1" facs="tcp:172696:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>THE PROCEEDINGS AT Turners-Hall, In Relation to the Great DEBATE BETWEEN George Keith AND THE QUAKERS, As the ſame was Manag'd In a Diſpute between two Moderate Perſons of Different Perſwaſions.</head>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>WELL met Brother <hi>Will.</hi> I find a Spirit of Curioſity has led you, as well as my ſelf, to <hi>Turners-hall.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>And pray, How were Matters carried; for, like the Fooliſh Virgins, I came when the Doors were ſhut?</p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>Carried doſt ſay, <hi>Montes paturiunt naſcitur ridiculus mus;</hi> There's a great Cry, but a little Wooll; half a dozen Perſons, more like bawling wrangling <hi>Billinſgate</hi> Scolds, than Divines or Scholar, threw Dirt into one anothers Faces, I think without either Sence or Reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>That's Strange! The Challenger is a Man of Learn<g ref="char:EOLhyphen"/>ing, Prudence and Conduct; beſides he had the Civil Magi<g ref="char:EOLhyphen"/>ſtrates Authority for his Proceedings there.</p>
+            </sp>
+            <pb n="2" facs="tcp:172696:2"/>
+            <!-- PDF PAGE 20 -->
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>His Learning, Prudence and Conduct I queſtion not, <hi>Arbor cognoſcitur ex fructu;</hi> however, if I dare be ſo bold as to ſpeak, this Day's Diſpute has been no Ornament to it: And as for what you talk of the Magiſtrates Authority, I underſtand it to be no other but a free Leave for both Par<g ref="char:EOLhyphen"/>ties to meet, if they pleaſe, with perhaps half a dozen Offi<g ref="char:EOLhyphen"/>cers to keep the King's Peace; but I think there was no great need of that, the other Party, I ſuppoſe, never deſign'd to diſturb it.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>But Prithee, ſince we are very intimate Friends, and byaſſed to neither Party, let's talk freely; Have not the <hi>Quakers</hi> brought a Reproach upon their Innocent Religion, by not clea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing themſelves from the Abſurdities, to ſpeak no worſe <hi>G. K.</hi> has publickly charg'd them with.</p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>That there are Errors in both Parties, you and I, of different Perſwaſions, ſhall eaſily aſſent to; but that the Quakers are more Blame-worthy for not appearing at <hi>G. K</hi>'s Summons, will admit ſome Debate.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Your Reaſons Pray?</p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>My Reaſons I think are plain enough, for <hi>G. K.</hi> is a Revolter and prejudic'd Perſon, <hi>Livor &amp; Invidia carpere dente ſolent:</hi> Malice never ſpeaks well.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Nay, ſtay Brother, I think you are much too haſty, to make a Man-Midwife of: If <hi>G. K.</hi> have a clearer Sight and Diſcerning of Things, and is as willing to convince his Brethren of their Errors <hi>(Nemo ſine crimine vivit)</hi> as he is to Retract and Amend his own, I think he cannot be juſtly charg'd as an Impoſtor or Revolter; for have not able Di<g ref="char:EOLhyphen"/>vines, more or leſs, in almoſt all Ages, altered or varied ſomething in their Opinions, without being thought charge<g ref="char:EOLhyphen"/>able of Apoſtaſie; and have they not alſo laboured to un<g ref="char:EOLhyphen"/>deceive them they have miſled, without being reflected on as envious prejudic'd Perſons; but <hi>Omnes comparationes odi<g ref="char:EOLhyphen"/>oſae ſunt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>I agree to the Major, and ſhould not harbour hard Thoughts of <hi>G. K.</hi> did he proſecute more Chriſtian Me<g ref="char:EOLhyphen"/>thods, to compoſe the Difference betwixt him and his <hi>quon<g ref="char:EOLhyphen"/>dam</hi>
+                  <pb n="3" facs="tcp:172696:2"/>
+                  <!-- PDF PAGE 20 -->Brethren, than I ſee he yet does; for let me tell you, thoſe Divines you ſpoke of, did not make it their Buſineſs to raiſe Brawls, appoint publick Diſputes, and to ſide with Perſons of different Perſwaſions, to make the Breaches wider in their own; they very well knew how directly oppoſite ſuch Proceedings were to the Doctrine of the Apoſtles, who taught, <hi>If thy Brother ſhall treſpaſs againſt thee, go tell him his Fault between thee and him alone.</hi> &amp;c. <hi>Matt.</hi> 18.15. In the moſt obdurate and hardened Obſtinacy, the Goſpel fore<g ref="char:EOLhyphen"/>warns us from bringing a Scandal or Reproach upon Chriſti<g ref="char:EOLhyphen"/>anity, by our Diſputes and Diviſions, <hi>If any Man ſeem to be Contentious, we have no ſuch Cuſtom, neither the Church of God,</hi> ſaith St. <hi>Paul,</hi> 1 <hi>Cor.</hi> 11.15. You cannot imagine how a <hi>Roman Catholick</hi> will rejoyce to ſee the Proteſtants Claſh and run into Diviſions about External Rites: The Diviſions amongſt the Quakers, for ought I can learn, are but about Shadows and not Subſtances, and therefore I think it's an ill Bird that defiles its own Neſt, as <hi>G. K.</hi> does; for, to my Knowledge, he yet continues to profeſs himſelf one of the People called <hi>Quakers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ay! ſay'ſt thou ſo. I thought he had ſolemnly pro<g ref="char:EOLhyphen"/>teſted againſt any thing like <hi>Quakeriſm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>Proteſt againſt it! There's no ſuch Matter <hi>(qui neſcit diſſimulare neſcit vivere.)</hi> But I think they greatly wrong him that call him <hi>Quaker;</hi> for ought that I can learn he is not very ſubject to Quake or Tremble at any thing.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You are pleas'd to Romance upon the Matter.</p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>No, I am Serious, but if I were ſo Merry diſpos'd, ſome merry Conceits might be remark'd on.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>What Conceits I pray?</p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>Why, truly pleaſing Fancies might be drawn as well from the Champion himſelf, as from the Martial Field; <hi>(Con<g ref="char:EOLhyphen"/>veniunt nomina ſaepe rebus ſuis)</hi> however out of reſpect to the Worthy Company the Hall belongs to, (whoſe Merits, Loyalty and worth are Illuſtrious) I ſhall wave making any Reflections; only let me obſerve <hi>(ſi fas ſit it a loqui)</hi> That ſo long as <hi>G. K.</hi> has any thing to do there it may very properly be call'd <hi>Turners Hall.</hi>
+               </p>
+            </sp>
+            <pb n="4" facs="tcp:172696:3"/>
+            <!-- PDF PAGE 21 -->
+            <sp>
+               <speaker>Will.</speaker>
+               <p>What, do you make him a Turn-coat?</p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>Truly, in my opinion, he ſeems little leſs in his Reli<g ref="char:EOLhyphen"/>gion, whatever he is otherwiſe; but be that how it will, <hi>ſub judice lis eſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I have no Acquaintance with the man, but I have heard it very creditably reported that he is a very learned man; perhaps his Knowledge, in ſome meaſure (like the vicar of <hi>Bray</hi>'s) conſiſts in ſuiting his Temper to every Genius, Mode and Cuſtom, according as it will beſt ſerve his Intereſt: Its an old policy,
+<q>Cum vivas Romae, Romano vivito more.</q>
+               </p>
+               <p>To Live at <hi>Rome,</hi> like <hi>Rome,</hi> is a venial crime.</p>
+            </sp>
+            <sp>
+               <speaker>Tho.</speaker>
+               <p>Truly, Brother, you have very well help'd the Lame Dog over the Stile; I'll ſing you one ſmall Catch for more I cannot till I have wet my Throat)</p>
+               <lg>
+                  <l>
+                     <hi>A Turn-Coat is a cunning man,</hi>
+                  </l>
+                  <l>
+                     <hi>That cants to Admiration;</hi>
+                  </l>
+                  <l>
+                     <hi>Says this, or that, or any thing,</hi>
+                  </l>
+                  <l>
+                     <hi>For Peoples Approbation.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Come, come lets go and take a Hearty Glaſs; for there is more cunning in daubing than bare ſlapping Dirt on the Wall.</p>
+               <p>☞ <hi>Dixi, Deo teſte, quod verum eſtimavi, nec Hominum gratiam, nec propriam utilitatem reſpiciens.</hi>
+               </p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by <hi>E. Whitlock,</hi> near <hi>Stationers-Hall,</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
